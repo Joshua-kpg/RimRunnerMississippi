@@ -1,4 +1,42 @@
 {
  "about": "RimRunnerMississippi 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "5cc1f820-061c-4618-a1c8-79f62e70a075": {
+   "awayMp": "2fb8e9e0-1cdd-4bc9-8c7a-b2aabc2fa7e1",
+   "awayScore": 42,
+   "date": "2026-10-29",
+   "forfeit": false,
+   "gameId": "ms26-0001",
+   "homeMp": "ca23d4a5-a7df-4c12-9a21-585abf984319",
+   "homeScore": 36,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "e4dc61a2-0635-4197-b655-ce9b22e32c66": {
+   "awayMp": "a5b8ab67-58c0-4045-b2fe-ee5172cedc1d",
+   "awayScore": 32,
+   "date": "2026-10-29",
+   "forfeit": false,
+   "homeMp": "5f39d09a-d95d-49d2-aa31-7d5b86c74c7c",
+   "homeScore": 86,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
+  },
+  "e56be8a5-9bbd-4689-8893-a493ac063afb": {
+   "awayMp": "53ebf4c2-de7d-4949-897f-a158a217bb66",
+   "awayScore": 67,
+   "date": "2026-10-29",
+   "forfeit": false,
+   "homeMp": "2ac37603-584e-4f8e-99e5-56fd27e6ddd1",
+   "homeScore": 21,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
+  }
+ }
 }
