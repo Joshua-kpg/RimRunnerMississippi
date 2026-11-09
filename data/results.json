@@ -1387,6 +1387,19 @@
    "state": "applied",
    "winner": "home"
   },
+  "98f27a3a-f4da-40de-bc8b-9a25c7643d3d": {
+   "awayMp": "738a9da0-70b6-4382-a7cb-32a8548141ce",
+   "awayScore": 40,
+   "date": "2026-11-07",
+   "forfeit": false,
+   "gameId": "ms26-0136",
+   "homeMp": "7ed2c84e-82a4-414c-ad15-9af9034cb6b3",
+   "homeScore": 53,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "9a00b401-4610-4933-b83b-9aa2b004586b": {
    "awayMp": "c74e6618-481d-4cf2-bead-fef7cd334aa2",
    "awayScore": 9,
