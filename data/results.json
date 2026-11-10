@@ -639,6 +639,19 @@
    "state": "applied",
    "winner": "home"
   },
+  "438c7802-02f2-4b7f-92f2-ad6fb415b295": {
+   "awayMp": "0b51a1d4-02f2-4783-8e52-e5d87e92c957",
+   "awayScore": 68,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "ms26-0174",
+   "homeMp": "d1519d39-e6d3-4477-9956-66ab632c78ef",
+   "homeScore": 36,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "442bb1b2-fc9b-4668-bb4b-cfd24da7f945": {
    "awayMp": "36c697a2-dd87-4d32-a9d3-1d535206cda2",
    "awayScore": 63,
@@ -1491,6 +1504,21 @@
    "state": "unlisted",
    "winner": "away"
   },
+  "a2aa7f0f-d89d-4cf1-be01-f4b7b35cc93a": {
+   "awayMp": "a19cdc6c-6d11-419a-8c50-7c5d0f5fe7b0",
+   "awayScore": 40,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "ms26-x014",
+   "gameType": "non-conference",
+   "homeMp": "6d0f15ee-5c24-4960-9f5d-e8fd39571c43",
+   "homeScore": 43,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "aaeaa27e-df65-4fdd-a29b-8316e9b512b1": {
    "awayMp": "36873950-4c1d-487c-ae95-1f5be0fbfc24",
    "awayScore": 75,
@@ -1697,6 +1725,19 @@
    "gameId": "ms26-0057",
    "homeMp": "8265b95f-6851-4922-8771-56469b0dc9d6",
    "homeScore": 28,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "b605f205-ac92-455e-a03d-353aa3a6a63a": {
+   "awayMp": "adecfae0-6811-4d44-923c-5df4b758e7f4",
+   "awayScore": 53,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "ms26-0175",
+   "homeMp": "c1e278a8-a5ff-4231-8240-18e14ab2889d",
+   "homeScore": 42,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -2095,6 +2136,21 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "away"
+  },
+  "e622bfff-cd0c-45c5-82be-ab6d220c2bad": {
+   "awayMp": "2ac37603-584e-4f8e-99e5-56fd27e6ddd1",
+   "awayScore": 56,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "ms26-x015",
+   "gameType": "non-conference",
+   "homeMp": "cdfdab6e-dd21-4e37-8758-ff2295d22275",
+   "homeScore": 18,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
    "winner": "away"
   },
   "e80b79b9-b07b-4822-bc2e-f5c5d0a604c1": {
