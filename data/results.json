@@ -3411,6 +3411,21 @@
    "state": "unlisted",
    "winner": "away"
   },
+  "a9039e1c-acf8-4142-8c91-294ae7248934": {
+   "awayMp": "98c2c1e0-b4ef-4d1e-aa4c-8bdcf8fa20b7",
+   "awayScore": 45,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "gameId": "ms26-x043",
+   "gameType": "non-conference",
+   "homeMp": "8e3750c6-d0d9-4eec-978b-5f03402ee1c0",
+   "homeScore": 65,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "a9e0b640-ad4e-4fa7-9fa2-e5834e44d818": {
    "awayMp": "e07287db-fa1c-46b1-9d5a-664da415b117",
    "awayScore": 57,
